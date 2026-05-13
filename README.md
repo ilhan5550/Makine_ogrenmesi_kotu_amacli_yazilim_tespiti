@@ -1,3 +1,4 @@
+MAKİNE ÖĞRENMESİ YÖNTEMLERİYLE KÖTÜ AMAÇLI YAZILIM TESPİTİ: KARŞILAŞTIRMALI BİR PERFORMANS DEĞERLENDİRMESİ
 Makine öğrenmesi yöntemleri kullanılarak kötü amaçlı yazılım tespitinde farklı algoritmaların 
 performanslarının karşılaştırılmasını amaçlayan ilişkisel tarama modeli kapsamında yürütülen 
 araştırmada Python’un makine öğrenmesi kütüphanelerinden yararlanılmıştır. 
