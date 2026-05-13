@@ -6,3 +6,6 @@ Makine öğrenmesi yöntemleri kullanılarak kötü amaçlı yazılım tespitind
 performanslarının karşılaştırılmasını amaçlayan ilişkisel tarama modeli kapsamında yürütülen 
 araştırmada Python’un makine öğrenmesi kütüphanelerinden yararlanılmıştır. 
 Araştırma sürecinde geliştirilen makine öğrenmesi modelleri ve kullanılan kodları içerir.
+
+E-mail contact: ilhan5550@gmail.com
+                ilhan5550@hotmail.com
